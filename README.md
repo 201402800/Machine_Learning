@@ -31,3 +31,14 @@ Auto-encoder를 이용한 Mnist 이미지 복원
 ## download.py, input_data.py
   
  메인코드에 필요한 라이브러리 입니다.
+ 
+ 
+ 
+ # 결과 화면
+ 
+ 
+<img width="186" alt="결과화면 2" src="https://user-images.githubusercontent.com/59049592/71170561-e9264d00-229e-11ea-8cf5-16b3295af3bc.png">
+
+<img width="800" alt="텐서보드 그래프1" src="https://user-images.githubusercontent.com/59049592/71170592-fc391d00-229e-11ea-9f5d-0fa01b7d242a.png">
+
+<img width="836" alt="텐서보드 이미지" src="https://user-images.githubusercontent.com/59049592/71170611-065b1b80-229f-11ea-814f-89252880626a.png">
