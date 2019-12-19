@@ -19,4 +19,7 @@ Auto-encoder를 이용한 Mnist 이미지 복원
 
   autoencoder 파이썬 오픈소스 코드입니다.
   `hidden layer` 갯수와 `learning_rate`, `batch_size`, `display_step`등을 설정하였습니다.
+ 
+## download.py, input_data.py
   
+ 메인코드에 필요한 라이브러리 입니다.
