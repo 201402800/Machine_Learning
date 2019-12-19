@@ -1,4 +1,4 @@
-# Machine_Learning
+# 소개
 Auto-encoder를 이용한 Mnist 이미지 복원
 
 아나콘다는 4.7.12 버전을 사용
