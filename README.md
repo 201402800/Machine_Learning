@@ -18,6 +18,9 @@ Auto-encoder를 이용한 Mnist 이미지 복원
   __`train-labels-idx1-ubyte`__ 훈련 셋 레이블입니다.
 
   Mnist자필 숫자 데이터베이스에는 60,000개의 학습셋과 10,000개의 테스트셋이 있습니다.
+  
+  
+  출처--http://yann.lecun.com/exdb/mnist/
 
 
 ## autoencoder_mnist.py
